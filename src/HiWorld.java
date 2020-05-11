@@ -4,6 +4,6 @@
  **/
 public class HiWorld {
     public static void main(String[] args) {
-        System.out.println("hellod");
+        System.out.println("杨天亮");
     }
 }
